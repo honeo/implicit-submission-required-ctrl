@@ -1,0 +1,22 @@
+{
+  "name": "implicit-submission-required-ctrl",
+  "version": "1.0.0",
+  "description": "form input[type=\"text\"] のEnter送信にctrlキーを要求",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "honeo",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "form",
+    "input",
+    "text",
+    "submit",
+    "implicit",
+    "submission"
+  ]
+}
